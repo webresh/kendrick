@@ -6,7 +6,7 @@ Kendrick is a Domain-Specific Language and Simulation Plaform for mathematical e
 
 Kendrick was involved in the Moose4Ebola team for [Ebola Challenge](https://www.hackerleague.org/hackathons/computing-for-ebola-challenge/hacks/moose4ebola).
 
-* Last stable version (0.32) on Pharo 5.0: [![Build Status](https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=Kendrick/PHARO=50,VERSION=stable,VM=vm)](https://ci.inria.fr/pharo-contribution/job/Kendrick/PHARO=50,VERSION=stable,VM=vm/)
+* Last stable version (0.33) on Pharo 5.0: [![Build Status](https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=Kendrick/PHARO=50,VERSION=stable,VM=vm)](https://ci.inria.fr/pharo-contribution/job/Kendrick/PHARO=50,VERSION=stable,VM=vm/)
 * Last dev version on Pharo 5.0: [![Build Status](https://ci.inria.fr/pharo-contribution/job/Kendrick/PHARO=50,VERSION=development,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/Kendrick/PHARO=50,VERSION=development,VM=vm/)
 
 All the development happens on SmalltalkHub at the moment: http://bit.ly/XrpsL2
@@ -17,7 +17,7 @@ Kendrick is based extensively on several tools of the meta-modeling platform [MO
 
 Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues) list.
 
-## How to install Kendrick 0.32
+## How to install Kendrick 0.33
 * Download a Spur VM: https://ci.inria.fr/pharo/view/5.0-VM-Spur/job/PharoVM-spur32/
 * Download the last dev MOOSE 6.0 on INRIA's CI server: https://ci.inria.fr/moose/job/moose-6.0/
 * Load Kendrick: Open MOOSE 6.0 image with the Spur VM then right-click anywhere to open the main menu. Choose Playground to execute scripts. Paste the script below in Playground, select all then right-click and choose Do it to execute this.
@@ -26,7 +26,7 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 Gofer new
     url: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
     configurationOf:'Kendrick';
-    loadVersion:'0.32'
+    loadVersion:'0.33'
 ````
 
 ## How to install Kendrick development version
