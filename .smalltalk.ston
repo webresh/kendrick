@@ -1,0 +1,14 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'Kendrick',
+      #repository : 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main',
+      #load : [ 'default' ],
+      #platforms : [
+        #pharo ]
+    }
+  ],
+  #testing : {
+    #categories : [ 'Kendrick-Tests-*' ]
+  }
+}
