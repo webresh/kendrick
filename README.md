@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/UMMISCO/kendrick.svg?branch=master)](https://travis-ci.org/UMMISCO/kendrick)
 [![Build status](https://ci.appveyor.com/api/projects/status/0wy09lhcta0017ri?svg=true)](https://ci.appveyor.com/project/SergeStinckwich/kendrick)
+[![Coverage Status](https://coveralls.io/repos/github/UMMISCO/kendrick/badge.svg?branch=master)](https://coveralls.io/github/UMMISCO/kendrick?branch=master)
 
 [![Stories in Ready](https://badge.waffle.io/UMMISCO/kendrick.png?label=ready&title=Ready)](https://waffle.io/UMMISCO/kendrick)
 [![Join the chat at https://gitter.im/UMMISCO/kendrick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UMMISCO/kendrick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
