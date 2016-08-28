@@ -1,8 +1,7 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #configuration : 'Kendrick',
-      #repository : 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main',
+      #baseline : 'Kendrick',
       #load : [ 'default' ],
       #platforms : [
         #pharo ]
