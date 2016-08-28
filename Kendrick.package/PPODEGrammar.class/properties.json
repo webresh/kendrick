@@ -1,0 +1,35 @@
+{
+	"category" : "Kendrick-ODE-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BUIThiMaiAnh 9/26/2014 15:42",
+	"instvars" : [
+		"number",
+		"terms",
+		"parenthesis",
+		"identifier",
+		"identifier2",
+		"multiplication",
+		"power",
+		"addition",
+		"factors",
+		"primary",
+		"unary",
+		"equation",
+		"sin",
+		"cos",
+		"log",
+		"squarebrackets",
+		"index",
+		"sum",
+		"exp",
+		"simpleEquation",
+		"odequation",
+		"expression" ],
+	"name" : "PPODEGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }

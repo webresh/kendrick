@@ -1,0 +1,3 @@
+testing
+isSeparable
+	^ (expression isSeparable)

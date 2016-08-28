@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Semantic-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SergeStinckwich 6/22/2015 15:00",
+	"instvars" : [
+		"model" ],
+	"name" : "KEGraphFromCompartments",
+	"pools" : [
+		 ],
+	"super" : "MalGraphAlgorithm",
+	"type" : "normal" }

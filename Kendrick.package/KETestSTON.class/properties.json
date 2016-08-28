@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Tests-STON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KETestSTON",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

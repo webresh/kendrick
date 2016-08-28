@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Spatial-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BuiThiMaiAnh 7/8/2016 22:49",
+	"instvars" : [
+		 ],
+	"name" : "KEContactNode",
+	"pools" : [
+		 ],
+	"super" : "KENode",
+	"type" : "normal" }

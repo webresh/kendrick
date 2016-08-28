@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Semantic-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BuiThiMaiAnh 3/14/2016 17:08",
+	"instvars" : [
+		 ],
+	"name" : "KEDependentModelPart",
+	"pools" : [
+		 ],
+	"super" : "KEModelPart",
+	"type" : "normal" }

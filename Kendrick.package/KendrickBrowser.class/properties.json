@@ -1,0 +1,15 @@
+{
+	"category" : "Kendrick-Glamour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"browser",
+		"donne" ],
+	"name" : "KendrickBrowser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

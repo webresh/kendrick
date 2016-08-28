@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Tests-IBM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KEIndividualTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

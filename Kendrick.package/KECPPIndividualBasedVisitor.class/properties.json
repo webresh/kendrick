@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Code-Generators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BUIThiMaiAnh 10/1/2014 18:59",
+	"instvars" : [
+		 ],
+	"name" : "KECPPIndividualBasedVisitor",
+	"pools" : [
+		 ],
+	"super" : "KECPPVisitor",
+	"type" : "normal" }

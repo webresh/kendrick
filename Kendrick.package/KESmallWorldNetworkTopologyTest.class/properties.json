@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Tests-Spatial-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KESmallWorldNetworkTopologyTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Semantic-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BUIThiMaiAnh 9/28/2014 15:18",
+	"instvars" : [
+		 ],
+	"name" : "KEStochasticSimulator",
+	"pools" : [
+		 ],
+	"super" : "KESimulator",
+	"type" : "normal" }

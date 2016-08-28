@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Examples",
+	"classinstvars" : [
+		"ModelExample" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BuiThiMaiAnh 7/25/2014 10:44",
+	"instvars" : [
+		 ],
+	"name" : "KEExamples",
+	"pools" : [
+		 ],
+	"super" : "RTAbstractExample",
+	"type" : "normal" }

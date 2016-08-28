@@ -1,0 +1,15 @@
+{
+	"category" : "Kendrick-Spatial-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BuiThiMaiAnh 5/18/2015 14:26",
+	"instvars" : [
+		"K",
+		"beta" ],
+	"name" : "KESmallWorldNetworkTopology",
+	"pools" : [
+		 ],
+	"super" : "KERandomNetworkTopology",
+	"type" : "normal" }

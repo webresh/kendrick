@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Glamour",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"magritteParentPrototype" ],
+	"name" : "KEGlamour",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

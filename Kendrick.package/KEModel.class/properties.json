@@ -1,0 +1,17 @@
+{
+	"category" : "Kendrick-Semantic-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SergeStinckwich 12/11/2014 14:37",
+	"instvars" : [
+		"population",
+		"initCompartments",
+		"concerns",
+		"t" ],
+	"name" : "KEModel",
+	"pools" : [
+		 ],
+	"super" : "KEComponent",
+	"type" : "normal" }

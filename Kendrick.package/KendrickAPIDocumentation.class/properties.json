@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Help",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KendrickAPIDocumentation",
+	"pools" : [
+		 ],
+	"super" : "KendrickHelp",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Kendrick-Semantic-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BuiThiMaiAnh 9/23/2014 13:59",
+	"instvars" : [
+		"system",
+		"stepper",
+		"equations" ],
+	"name" : "KEDeterministicSimulator",
+	"pools" : [
+		 ],
+	"super" : "KESimulator",
+	"type" : "normal" }

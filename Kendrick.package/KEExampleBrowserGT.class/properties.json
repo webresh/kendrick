@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KEExampleBrowserGT",
+	"pools" : [
+		 ],
+	"super" : "RTObject",
+	"type" : "normal" }

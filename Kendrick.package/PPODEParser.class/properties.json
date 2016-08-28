@@ -1,0 +1,14 @@
+{
+	"category" : "Kendrick-ODE-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BUIThiMaiAnh 9/26/2014 15:43",
+	"instvars" : [
+		 ],
+	"name" : "PPODEParser",
+	"pools" : [
+		 ],
+	"super" : "PPODEGrammar",
+	"type" : "normal" }

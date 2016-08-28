@@ -1,0 +1,26 @@
+{
+	"category" : "Kendrick-Code-Generators",
+	"classinstvars" : [
+		"aNode" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BUIThiMaiAnh 10/1/2014 18:57",
+	"instvars" : [
+		"stream",
+		"compartments",
+		"nbOfCompartments",
+		"parameters",
+		"equaChecks",
+		"rateOfListEvent",
+		"numberOfEvent",
+		"strInitializeTrans",
+		"strInitializeKEMath",
+		"function",
+		"isDeterministic",
+		"eventIndex",
+		"defSumSigma" ],
+	"name" : "KECPPVisitor",
+	"pools" : [
+		 ],
+	"super" : "KEVisitor",
+	"type" : "normal" }

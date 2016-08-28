@@ -1,0 +1,16 @@
+{
+	"category" : "Kendrick-IBM-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SergeStinckwich 10/16/2014 16:39",
+	"instvars" : [
+		"attributes",
+		"currentStatus",
+		"nextStatus" ],
+	"name" : "KEIndividual",
+	"pools" : [
+		 ],
+	"super" : "KEEntity",
+	"type" : "normal" }
