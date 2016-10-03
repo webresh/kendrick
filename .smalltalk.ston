@@ -1,4 +1,4 @@
-SmalltalkCISpec {
+malltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
       #baseline : 'Kendrick',
@@ -8,5 +8,9 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
+    #categories : [ 'Kendrick-Tests-*' ],
+     #coverage : {
+      #categories : [ 'Kendrick-*' ]
+    }
   }
 }
