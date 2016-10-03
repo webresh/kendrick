@@ -8,9 +8,5 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
-    #categories : [ 'Kendrick-Tests-*' ],
-     #coverage : {
-      #categories : [ 'Kendrick-*' ]
-    }
   }
 }
