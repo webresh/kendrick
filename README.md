@@ -21,22 +21,11 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 * Load Kendrick: Open MOOSE 6.0 image with the Spur VM then right-click anywhere to open the main menu. Choose Playground to execute scripts. Paste the script below in Playground, select all then right-click and choose Do it to execute this.
 
 ```Smalltalk
-Gofer new
-    url: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
-    configurationOf:'Kendrick';
-    loadVersion:'0.37'
+Metacello new
+    repository: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
+    configuration:'Kendrick';
+    version: '0.37';
+    load
 ````
 
-## How to install Kendrick development version
-* Download a Spur VM: https://ci.inria.fr/pharo/view/5.0-VM-Spur/job/PharoVM-spur32/
-* Download the last dev MOOSE 6.0 on INRIA's CI server: https://ci.inria.fr/moose/job/moose-6.0/
-* Load Kendrick: the instructions to load the development version of Kendrick is similar. The script is below:
-
-```Smalltalk
-Gofer new
-    url: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
-    package: 'ConfigurationOfKendrick';
-    load.
-(Smalltalk at: #ConfigurationOfKendrick) loadDevelopment
-````
 
