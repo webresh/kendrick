@@ -27,5 +27,10 @@ Metacello new
     version: '0.40';
     load
 ````
+* On system with a bash cmd-line, you can install everything mentioned above by the following command:
+```
+wget -O- https://goo.gl/WUQxmp | bash
+````
+
 
 
