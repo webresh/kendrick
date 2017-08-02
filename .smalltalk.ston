@@ -6,7 +6,9 @@ SmalltalkCISpec {
       #load : [ 'default' ],
       #platforms : [
         #pharo ],
-      #version : #development
+      #version : #development,
+      #comment : 'the #version directive invokes the #development: selector of the Configuration, 
+      loading a baseline (not a version) with the latest package commited on smalltalkhub' 
     }
   ],
   #testing : {
