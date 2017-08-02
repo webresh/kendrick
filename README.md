@@ -33,7 +33,7 @@ Metacello new
 
 On systems with a bash cmd-line (this includes Linux, Mac and Windows with Cygwin and/or the Windows 10 Bash sub-system) 
 you can compile Kendrick from sources using the following command:
-```
+```shell
 wget -O- https://goo.gl/WUQxmp | bash
 ````
 
@@ -50,7 +50,7 @@ To download pre-compiled versions of Kendrick for your platform of choice, follo
 ### DSL Editor
 After compiling from source or downloading the pre-compiled versions of Kendrick, you can run the 
 dedicated Kendrick editor (using the Kendrick DSL), by invoking:
-```
+```shell
 ./KendrickUI
 ```
 
@@ -58,7 +58,7 @@ dedicated Kendrick editor (using the Kendrick DSL), by invoking:
 
 To run Kendrick with the full Pharo environment (allowing to use both the DSL and the Pharo API of Kendrick),
 you can invoke:
-```
+```shell
 ./KendrickDevUI
 ```
 
@@ -67,14 +67,11 @@ you can invoke:
 Finally, to use Kendrick with an editor of your choice, you only need to navigate in the Sources directory
 of your installation, edit / add files for your project and invoke the non-interactive kendric executable 
 as follows (example for simulating and visualizing the results described in Influenza1Viz.kendrick):
-```
+```shell
 ./Kendrick Sources/Projects/Infuenza/Visualization/Influenza1Viz.kendrick
 ```
 
 In the above example you can then find the results in: 
-```
+```shell
 Sources/Projects/Infuenza/Output/Influenza1Viz.png
 ```
-
-
-
