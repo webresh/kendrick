@@ -17,6 +17,6 @@ install:
   - 7z x C:\smalltalkCI.zip -oC:\ -y > NULL
 
 build: false
-
+ 
 test_script:
   - '%CYG_BASH% -lc "cd $APPVEYOR_BUILD_FOLDER; exec 0</dev/null; $SCI_RUN"'
