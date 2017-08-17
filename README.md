@@ -16,6 +16,11 @@ Kendrick is based extensively on several tools of the meta-modeling platform [MO
 
 Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues) list.
 
+## Citation
+
+If using Kendrick for research, please cite our work as:
+> BUI Thi Mai Anh, Mikal Ziane, Serge Stinckwich, HO Tuong Vinh, Benjamin Roche, Nick Papoulias (2016). *Separation of Concerns in Epidemiological Modelling*, Companion Proceedings of the 15th International Conference on Modularity, pages 196-200 URL: http://dl.acm.org/citation.cfm?id=2892699
+
 ## How to manually install Kendrick 0.42 from sources
 
 * Download a Spur VM: https://ci.inria.fr/pharo/view/5.0-VM-Spur/job/PharoVM-spur32/
