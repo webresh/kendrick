@@ -46,7 +46,7 @@ To download pre-compiled versions of Kendrick for your platform of choice, follo
 * [Kendrick-0.42-Linux](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Linux.zip)
 * [Kendrick-0.42-Windows](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Windows.zip)
 
-## How to invoke Kenrdrick
+## How to invoke Kendrick
 
 ### DSL Editor
 After compiling from source or downloading the pre-compiled versions of Kendrick, you can run the 
