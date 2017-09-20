@@ -21,7 +21,7 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 If using Kendrick for research, please cite our work as:
 > BUI Thi Mai Anh, Mikal Ziane, Serge Stinckwich, HO Tuong Vinh, Benjamin Roche, Nick Papoulias (2016). *Separation of Concerns in Epidemiological Modelling*, Companion Proceedings of the 15th International Conference on Modularity, pages 196-200 URL: http://dl.acm.org/citation.cfm?id=2892699
 
-## How to manually install Kendrick 0.47 from sources
+## How to manually install Kendrick 0.48 from sources
 
 * Download a Spur VM: https://ci.inria.fr/pharo/view/5.0-VM-Spur/job/PharoVM-spur32/
 * Download the last dev MOOSE 6.1 on INRIA's CI server: https://ci.inria.fr/moose/job/moose-6.1/
@@ -31,7 +31,7 @@ If using Kendrick for research, please cite our work as:
 Metacello new
     repository: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
     configuration:'Kendrick';
-    version: '0.46';
+    version: '0.48';
     load
 ````
 
