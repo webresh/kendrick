@@ -5,7 +5,6 @@
 [![Join the chat at https://gitter.im/UMMISCO/kendrick](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UMMISCO/kendrick?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/UMMISCO/kendrick/master/LICENSE)
 
-
 Kendrick: tools for simulating mathematical models of infectious disease. Classes of epidemic model include deterministic compartmental models, stochastic individual contact models, and individual-based network models.
 
 Kendrick provide a Domain-Specific Language and a Simulation Plaform for mathematical epidemiology modeling. It helps epidemiologists craft custom analyses cheaply. It's based on [Pharo](http://www.pharo.org/) and it's open source under MIT.
@@ -21,19 +20,7 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 If using Kendrick for research, please cite our work as:
 > BUI Thi Mai Anh, Mikal Ziane, Serge Stinckwich, HO Tuong Vinh, Benjamin Roche, Nick Papoulias (2016). *Separation of Concerns in Epidemiological Modelling*, Companion Proceedings of the 15th International Conference on Modularity, pages 196-200 URL: http://dl.acm.org/citation.cfm?id=2892699
 
-## How to manually install Kendrick 0.48 from sources
 
-* Download a Spur VM: https://ci.inria.fr/pharo/view/5.0-VM-Spur/job/PharoVM-spur32/
-* Download the last dev MOOSE 6.1 on INRIA's CI server: https://ci.inria.fr/moose/job/moose-6.1/
-* Load Kendrick: Open MOOSE 6.1 image with the Spur VM then right-click anywhere to open the main menu. Choose Playground to execute scripts. Paste the script below in Playground, select all then right-click and choose Do it to execute this.
-
-```Smalltalk
-Metacello new
-    repository: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
-    configuration:'Kendrick';
-    version: '0.48';
-    load
-````
 
 ## How to automagically install Kendrick 0.42 from sources
 
@@ -43,7 +30,7 @@ you can compile Kendrick from sources using the following command:
 wget -O- https://goo.gl/WUQxmp | bash
 ````
 
-## How to download pre-compiled versions of Kendrick 0.42 for your platform
+## How to download pre-compiled stable versions of Kendrick 0.42 for your platform
 
 To download pre-compiled versions of Kendrick for your platform of choice, follow the links below:
 
@@ -51,6 +38,18 @@ To download pre-compiled versions of Kendrick for your platform of choice, follo
 * [Kendrick-0.42-Linux](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Linux.zip)
 * [Kendrick-0.42-Windows](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Windows.zip)
 
+## How to manually install Kendrick dev (0.48) from sources
+
+* Download Pharo 6.1 VM depending of your platform: http://pharo.org/download
+* Load Kendrick: Open Pharo 6.1 image then right-click anywhere to open the main menu. Choose Playground to execute script. Paste the script below in Playground, select all then right-click and choose Do it to execute this.
+
+```Smalltalk
+Metacello new
+    repository: 'http://smalltalkhub.com/mc/UMMISCO/Kendrick/main';
+    configuration:'Kendrick';
+    version: '0.48';
+    load
+````
 ## How to invoke Kendrick
 
 ### DSL Editor
