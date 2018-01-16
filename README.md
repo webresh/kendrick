@@ -20,8 +20,6 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 If using Kendrick for research, please cite our work as:
 > BUI Thi Mai Anh, Mikal Ziane, Serge Stinckwich, HO Tuong Vinh, Benjamin Roche, Nick Papoulias (2016). *Separation of Concerns in Epidemiological Modelling*, Companion Proceedings of the 15th International Conference on Modularity, pages 196-200 URL: http://dl.acm.org/citation.cfm?id=2892699
 
-
-
 ## How to automagically install Kendrick 0.42 from sources
 
 On systems with a bash cmd-line (this includes Linux, Mac and Windows with Cygwin and/or the Windows 10 Bash sub-system) 
@@ -32,7 +30,7 @@ wget -O- https://goo.gl/WUQxmp | bash
 
 ## How to download pre-compiled stable versions of Kendrick 0.42 for your platform
 
-To download pre-compiled versions of Kendrick for your platform of choice, follow the links below:
+If you don't want to compile Kendrick on your machine, you can download pre-compiled versions of Kendrick for your platform of choice, follow the links below:
 
 * [Kendrick-0.42-Mac](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Mac.zip)
 * [Kendrick-0.42-Linux](https://gitlab.com/ird-ummisco-npapoylias/kendrick-extentions/raw/master/Kendrick-0.42-Linux.zip)
