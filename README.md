@@ -17,7 +17,7 @@ Github is only used to store [issues](https://github.com/UMMISCO/Kendrick/issues
 
 ## Citation
 
-If using Kendrick for research, please cite our work as:
+If you are using Kendrick for research, please cite our work as:
 > BUI Thi Mai Anh, Mikal Ziane, Serge Stinckwich, HO Tuong Vinh, Benjamin Roche, Nick Papoulias (2016). *Separation of Concerns in Epidemiological Modelling*, Companion Proceedings of the 15th International Conference on Modularity, pages 196-200 URL: http://dl.acm.org/citation.cfm?id=2892699
 
 ## How to automagically install Kendrick 0.42 from sources
